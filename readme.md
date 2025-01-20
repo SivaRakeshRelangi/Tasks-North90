@@ -1,4 +1,42 @@
+# Responsive Webpage with Navbar and Dynamic Resizing
+## This project implements a responsive webpage with a fixed navbar, collapsible left menu, and dynamic content resizing based on screen width. The page is designed to adapt to various screen sizes for an optimal viewing experience.
 
+## Features
+1. Fixed Navbar
+The navbar remains fixed at the top of the page, even when the user scrolls down.
+2. Three Sections Layout
+Left Menu: A collapsible side menu that can be hidden or shown based on user interaction.
+Main Content Area: The primary section where the main content of the page is displayed.
+Right-side Panel: A secondary panel positioned to the right of the main content area.
+3. Footer
+A footer is included at the bottom of the page, which will always be present.
+4. Dynamic Page Resizing
+The page width dynamically adjusts based on the screen size using JavaScript:
+Screen width between 992px and 1600px: The page is shrunk by 90%.
+Screen width between 700px and 767px: The page is shrunk by 80%.
+Screen width between 600px and 700px: The page is shrunk by 75%.
+Screen width 600px or less: The page is shrunk to 50%.
+Setup Instructions
+Prerequisites
+You need a modern browser to view the webpage.
+To run this project locally, ensure you have a basic HTML, CSS, and JavaScript environment set up.
+Files and Directory Structure
+The project consists of the following files:
+
+index.html: The main HTML file containing the structure of the webpage.
+style.css: The stylesheet that defines the layout and design.
+script.js: The JavaScript file that handles the dynamic resizing of the page based on screen width.
+Running the Project Locally
+Clone or download this repository.
+
+Navigate to the project directory in your terminal.
+
+Open index.html in your preferred browser. The webpage should display with the described features.
+
+Usage
+Fixed Navbar: The navbar will stay at the top of the screen as you scroll down.
+Collapsible Left Menu: The left menu can be collapsed or expanded by clicking the menu icon.
+Responsive Design: As you resize the browser window, the JavaScript function will automatically adjust the page width according to the defined screen width ranges.
 # Tasks : Responsive Web Page
 
 ## Project Overview
