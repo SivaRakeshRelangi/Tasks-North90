@@ -35,12 +35,12 @@ Clone or download this repository.
 
 Navigate to the project directory in your terminal.
 
-Open index.html in your preferred browser. The webpage should display with the described features.
+Open **index.html** in your preferred browser. The webpage should display with the described features.
 
 Usage
-Fixed Navbar: The navbar will stay at the top of the screen as you scroll down.
-Collapsible Left Menu: The left menu can be collapsed or expanded by clicking the menu icon.
-Responsive Design: As you resize the browser window, the JavaScript function will automatically adjust the page width according to the defined screen width ranges.
+**Fixed Navbar:** The navbar will stay at the top of the screen as you scroll down.
+**Collapsible Left Menu:** The left menu can be collapsed or expanded by clicking the menu icon.
+**Responsive Design:** As you resize the browser window, the JavaScript function will automatically adjust the page width according to the defined screen width ranges.
 
 
 # Task 2 : Django Chat Application
