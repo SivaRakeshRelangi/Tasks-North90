@@ -14,13 +14,13 @@ Right-side Panel: A secondary panel positioned to the right of the main content 
 A footer is included at the bottom of the page, which will always be present.
 
 - `4. Dynamic Page Resizing`: 
-The page width dynamically adjusts based on the screen size using JavaScript:
-Screen width between 992px and 1600px: The page is shrunk by 90%.
-Screen width between 700px and 767px: The page is shrunk by 80%.
-Screen width between 600px and 700px: The page is shrunk by 75%.
-Screen width 600px or less: The page is shrunk to 50%.
-Setup Instructions
-Prerequisites
+##### The page width dynamically adjusts based on the screen size using JavaScript:
+- Screen width between 992px and 1600px: The page is shrunk by 90%.
+- Screen width between 700px and 767px: The page is shrunk by 80%.
+- Screen width between 600px and 700px: The page is shrunk by 75%.
+- Screen width 600px or less: The page is shrunk to 50%.
+### Setup Instructions
+- 'Prerequisites':
 You need a modern browser to view the webpage.
 To run this project locally, ensure you have a basic HTML, CSS, and JavaScript environment set up.
 Files and Directory Structure
