@@ -26,9 +26,9 @@ To run this project locally, ensure you have a basic HTML, CSS, and JavaScript e
 Files and Directory Structure
 The project consists of the following files:
 
-index.html: The main HTML file containing the structure of the webpage.
-style.css: The stylesheet that defines the layout and design.
-script.js: The JavaScript file that handles the dynamic resizing of the page based on screen width.
+- `index.html`: The main HTML file containing the structure of the webpage.
+- `style.css:`: The stylesheet that defines the layout and design.
+- `script.js:`: The JavaScript file that handles the dynamic resizing of the page based on screen width.
 Running the Project Locally
 Clone or download this repository.
 
