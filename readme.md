@@ -40,23 +40,25 @@ Usage
 Fixed Navbar: The navbar will stay at the top of the screen as you scroll down.
 Collapsible Left Menu: The left menu can be collapsed or expanded by clicking the menu icon.
 Responsive Design: As you resize the browser window, the JavaScript function will automatically adjust the page width according to the defined screen width ranges.
-# Tasks : Responsive Web Page
+# Task 2 :Django Chat Application
+
 
 ## Project Overview
-This project is a chatbot that generates 3 unique ideas for a user query, ranks them based on relevance, impact, and feasibility, and provides detailed suggestions for the selected ideas. It includes a Flask API and a CLI for user interaction.
+This project implements a chat application using Django, featuring user authentication, real-time chat functionality, and a WebSocket connection for live communication. Users can sign up, log in, and chat with each other through a user-friendly interface.
 
-## File Structure
-- `app.py`: Flask API for idea generation, ranking, and expansion.
-- `cli.py`: Command-line interface for user interaction.
-- `.env`: Environment variables (Hugging Face API Key).
-- `requirements.txt`: Python dependencies.
+## Features
+- `Sign up:`: New users can create an account by providing a username and password.
+- `Login:`: Registered users can log in to access the chat application.
+- `WebSocket-based Communication:`: The application uses WebSocket for real-time communication, ensuring instant message delivery.
+- `Message History:`: Chat messages are stored in the database and old messages are retrieved and displayed when opening a chat.
+- `User-Friendly Interface:`: The chat interface is designed for ease of use, with a clean layout and simple navigation.
 
 ## Setup Instructions
 1. **Set Up Virtual Environment**:
    ```bash
-   python -m venv venv
+   python -m venv chatenv
    
-   venv\Scripts\activate
+   chatenv\Scripts\activate
 
 2. **Install Dependencies**:
    ```bash
@@ -83,6 +85,4 @@ Scoring system that evaluates each idea across three key dimensions: **Relevance
 3. **Feasibility**: The ease of implementing the idea considering technical and resource constraints.  
 
 Each dimension is scored on a scale of 1 to 5, with 5 being the highest. The scores are provided by an AI model and are averaged to calculate an **overall priority score** for each idea.  
-
-Finally, the ideas are sorted in descending order of their scores, ensuring the most promising ideas are ranked highest. This approach ensures that user preferences and implementation practicality are balanced effectively.
 
