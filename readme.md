@@ -1,3 +1,4 @@
+# Task 1 : Front End
 # Responsive Webpage with Navbar and Dynamic Resizing
 ## This project implements a responsive webpage with a fixed navbar, collapsible left menu, and dynamic content resizing based on screen width. The page is designed to adapt to various screen sizes for an optimal viewing experience.
 
@@ -40,7 +41,9 @@ Usage
 Fixed Navbar: The navbar will stay at the top of the screen as you scroll down.
 Collapsible Left Menu: The left menu can be collapsed or expanded by clicking the menu icon.
 Responsive Design: As you resize the browser window, the JavaScript function will automatically adjust the page width according to the defined screen width ranges.
-# Task 2 :Django Chat Application
+
+
+# Task 2 : Django Chat Application
 
 
 ## Project Overview
@@ -65,24 +68,27 @@ This project implements a chat application using Django, featuring user authenti
    pip install -r requirements.txt
 
 
-3. **Add Your API Key**:
+3. **Add Database Models**:
    ```bash
-   HUGGINGFACE_API_KEY= " Your API Key "
+   python manage.py makemigrations
+   python manage.py migrate
 
-4. **python app.py**:
+
+4. **Run python**:
    ```bash
-   python app.py
+   python manage.py runserver
 
-5. **Run CLI**:
+
+5. **Open the browser and go to:**:
    ```bash
-   python cli.py
+   (http://127.0.0.1:8000)
 
-## Logic to prioritize intents in this project
-Scoring system that evaluates each idea across three key dimensions: **Relevance**, **Impact**, and **Feasibility**. These dimensions are defined as follows:  
+## Test the Chat Application
 
-1. **Relevance**: How well the idea aligns with the user's query or needs.  
-2. **Impact**: The potential return on investment (ROI) or value the idea can generate.  
-3. **Feasibility**: The ease of implementing the idea considering technical and resource constraints.  
-
-Each dimension is scored on a scale of 1 to 5, with 5 being the highest. The scores are provided by an AI model and are averaged to calculate an **overall priority score** for each idea.  
+1. Open two browser tabs or windows and log in with two different users.
+ 
+2. Select a user from the collapsible left menu.
+   
+3. Send and receive messages in real-time.  
+ 
 
