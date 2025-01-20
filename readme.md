@@ -93,5 +93,5 @@ This project implements a chat application using Django, featuring user authenti
    
 3. Send and receive messages in real-time.  
  
-![AWS Lambda Function and S3 file storage](AWS Lambda Function and S3 file storage.png)
+![AWS Lambda Function and S3 file storage](AWSLambdaFunctionandS3file storage.png)
 
