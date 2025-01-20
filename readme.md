@@ -93,4 +93,5 @@ This project implements a chat application using Django, featuring user authenti
    
 3. Send and receive messages in real-time.  
  
+![DjangoAdminaddGoogleApplication](DjangoAdminaddGoogleApplication.png)
 
