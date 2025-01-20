@@ -2,7 +2,7 @@
 ## This project implements a responsive webpage with a fixed navbar, collapsible left menu, and dynamic content resizing based on screen width. The page is designed to adapt to various screen sizes for an optimal viewing experience.
 
 ## Features
-- '1. Fixed Navbar'
+- '1. Fixed Navbar' :
 The navbar remains fixed at the top of the page, even when the user scrolls down.
 2. Three Sections Layout
 Left Menu: A collapsible side menu that can be hidden or shown based on user interaction.
