@@ -20,7 +20,7 @@ A footer is included at the bottom of the page, which will always be present.
 - Screen width between 600px and 700px: The page is shrunk by 75%.
 - Screen width 600px or less: The page is shrunk to 50%.
 ### Setup Instructions
-- 'Prerequisites':
+##### 'Prerequisites':
 You need a modern browser to view the webpage.
 To run this project locally, ensure you have a basic HTML, CSS, and JavaScript environment set up.
 Files and Directory Structure
