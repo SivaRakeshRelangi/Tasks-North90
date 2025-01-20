@@ -2,16 +2,18 @@
 ## This project implements a responsive webpage with a fixed navbar, collapsible left menu, and dynamic content resizing based on screen width. The page is designed to adapt to various screen sizes for an optimal viewing experience.
 
 ## Features
-- `1. Fixed Navbar`: Flask API
-- '1. Fixed Navbar' :
+- `1. Fixed Navbar`: 
 The navbar remains fixed at the top of the page, even when the user scrolls down.
-2. Three Sections Layout
+
+- `2. Three Sections Layout`: 
 Left Menu: A collapsible side menu that can be hidden or shown based on user interaction.
 Main Content Area: The primary section where the main content of the page is displayed.
 Right-side Panel: A secondary panel positioned to the right of the main content area.
-3. Footer
+
+- `3. Footer`: 
 A footer is included at the bottom of the page, which will always be present.
-4. Dynamic Page Resizing
+
+- `4. Dynamic Page Resizing`: 
 The page width dynamically adjusts based on the screen size using JavaScript:
 Screen width between 992px and 1600px: The page is shrunk by 90%.
 Screen width between 700px and 767px: The page is shrunk by 80%.
