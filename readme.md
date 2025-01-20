@@ -1,5 +1,5 @@
 
-# Idea Generation Chatbot
+# Tasks : Responsive Web Page
 
 ## Project Overview
 This project is a chatbot that generates 3 unique ideas for a user query, ranks them based on relevance, impact, and feasibility, and provides detailed suggestions for the selected ideas. It includes a Flask API and a CLI for user interaction.
