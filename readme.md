@@ -1,6 +1,13 @@
+
+
+
 # Task 1 : Front End
 # Responsive Webpage with Navbar and Dynamic Resizing
 ## This project implements a responsive webpage with a fixed navbar, collapsible left menu, and dynamic content resizing based on screen width. The page is designed to adapt to various screen sizes for an optimal viewing experience.
+## How to Run 
+1.) Download and Open Task 1 Folder
+2.) Open index.html in chrome browser
+![AWS Lambda Function and S3 file storage](UserDetailsDjangochatwebsockets.png)
 
 ## Features
 - `1. Fixed Navbar`: 
@@ -94,4 +101,15 @@ This project implements a chat application using Django, featuring user authenti
 3. Send and receive messages in real-time.  
  
 ![AWS Lambda Function and S3 file storage](UserDetailsDjangochatwebsockets.png)
+
+# Task3 : AWS
+### 3.1 Lambda Function for Adding Two Numbers
+ - This Lambda function takes two numbers as input, adds them together, and returns the result. The function demonstrates basic AWS Lambda functionality, including handling input and output.
+
+### 3.2 Lambda Function to Store Document in S3 Bucket
+ - This AWS Lambda function stores a document or PDF file in an S3 bucket. It takes a base64-encoded file as input and uploads it to a specified S3 bucket.
+
+
+
+
 
