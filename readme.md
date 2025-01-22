@@ -103,7 +103,7 @@ This project implements a chat application using Django, featuring user authenti
 
 1. Open two browser tabs or windows and log in with two different users.
  
-2. Select a user from the collapsible left menu.
+2. Select a user from the menu.
    
 3. Send and receive messages in real-time.  
  
