@@ -110,6 +110,8 @@ This project implements a chat application using Django, featuring user authenti
 ### 3.1 Lambda Function for Adding Two Numbers
  - This Lambda function takes two numbers as input, adds them together, and returns the result. The function demonstrates basic AWS Lambda functionality, including handling input and output.
 
+![AWS Lambda Function and S3 file storage](AWSaddnumbersouputpic.png)
+
 ### 3.2 Lambda Function to Store Document in S3 Bucket
  - This AWS Lambda function stores a document or PDF file in an S3 bucket. It takes a base64-encoded file as input and uploads it to a specified S3 bucket.
 
