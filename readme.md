@@ -108,6 +108,14 @@ This project implements a chat application using Django, featuring user authenti
 3. Send and receive messages in real-time.  
  
 ![AWS Lambda Function and S3 file storage](UserDetailsDjangochatwebsockets.png)
+## Login
+
+![Login Page](LoginPage.png)
+## SignUP
+![Login Page](SignUpPage.png)
+
+## After Login User interface
+![Login Page](AfterLoginChatUI.png)
 
 # Task3 : AWS
 ### 3.1 Lambda Function for Adding Two Numbers
