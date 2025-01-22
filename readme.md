@@ -115,6 +115,9 @@ This project implements a chat application using Django, featuring user authenti
 ### 3.2 Lambda Function to Store Document in S3 Bucket
  - This AWS Lambda function stores a document or PDF file in an S3 bucket. It takes a base64-encoded file as input and uploads it to a specified S3 bucket.
 
+![AWS](Files3sucess.png)
+
+![AWS](lambdafunctionUploadfiletoS3.png)
 
 
 
