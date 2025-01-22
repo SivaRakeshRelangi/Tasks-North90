@@ -48,6 +48,9 @@ Open **index.html** in your preferred browser. The webpage should display with t
 
 2.) **Open index.html in chrome browser**
 ![Task 1](HighScreensizerelatedwebage.png)
+
+![Task 1](width80%coveredScreensizeseethispic.png)
+
 ###### Usage
 **Fixed Navbar:** The navbar will stay at the top of the screen as you scroll down.
 
