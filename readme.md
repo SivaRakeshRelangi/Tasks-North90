@@ -5,6 +5,7 @@
 # Responsive Webpage with Navbar and Dynamic Resizing
 ###### This project implements a responsive webpage with a fixed navbar, collapsible left menu, and dynamic content resizing based on screen width. The page is designed to adapt to various screen sizes for an optimal viewing experience.
 
+![AWS Lambda Function and S3 file storage](HighScreensizerelatedwebage.png)
 
 ## Features
 - `1. Fixed Navbar`: 
