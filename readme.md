@@ -106,7 +106,9 @@ This project implements a chat application using Django, featuring user authenti
 2. Select a user from the menu.
    
 3. Send and receive messages in real-time.  
- 
+
+
+ # Super User Dashboard
 ![AWS Lambda Function and S3 file storage](UserDetailsDjangochatwebsockets.png)
 ## Login
 
