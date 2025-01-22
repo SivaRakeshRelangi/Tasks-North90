@@ -81,7 +81,7 @@ This project implements a chat application using Django, featuring user authenti
 
 2. **Install Dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
 
 
 3. **Add Database Models**:
