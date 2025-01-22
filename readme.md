@@ -47,7 +47,7 @@ Open **index.html** in your preferred browser. The webpage should display with t
 1.) **Download and Open Task 1 Folder**
 
 2.) **Open index.html in chrome browser**
-![AWS Lambda Function and S3 file storage](UserDetailsDjangochatwebsockets.png)
+![Task 1](HighScreensizerelatedwebage.png)
 ###### Usage
 **Fixed Navbar:** The navbar will stay at the top of the screen as you scroll down.
 
@@ -115,9 +115,11 @@ This project implements a chat application using Django, featuring user authenti
 ### 3.2 Lambda Function to Store Document in S3 Bucket
  - This AWS Lambda function stores a document or PDF file in an S3 bucket. It takes a base64-encoded file as input and uploads it to a specified S3 bucket.
 
+![AWS](lambdafunctionUploadfiletoS3.png)
+
 ![AWS](Files3sucess.png)
 
-![AWS](lambdafunctionUploadfiletoS3.png)
+
 
 
 
