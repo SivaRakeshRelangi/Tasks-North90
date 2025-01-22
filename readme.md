@@ -4,12 +4,7 @@
 # Task 1 : Front End
 # Responsive Webpage with Navbar and Dynamic Resizing
 ###### This project implements a responsive webpage with a fixed navbar, collapsible left menu, and dynamic content resizing based on screen width. The page is designed to adapt to various screen sizes for an optimal viewing experience.
-## How to Run 
 
-1.) **Download and Open Task 1 Folder**
-
-2.) **Open index.html in chrome browser**
-![AWS Lambda Function and S3 file storage](UserDetailsDjangochatwebsockets.png)
 
 ## Features
 - `1. Fixed Navbar`: 
@@ -46,6 +41,12 @@ Navigate to the project directory in your terminal.
 
 Open **index.html** in your preferred browser. The webpage should display with the described features.
 
+## How to Run 
+
+1.) **Download and Open Task 1 Folder**
+
+2.) **Open index.html in chrome browser**
+![AWS Lambda Function and S3 file storage](UserDetailsDjangochatwebsockets.png)
 ###### Usage
 **Fixed Navbar:** The navbar will stay at the top of the screen as you scroll down.
 
