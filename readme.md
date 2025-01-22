@@ -3,7 +3,7 @@
 
 # Task 1 : Front End
 # Responsive Webpage with Navbar and Dynamic Resizing
-## This project implements a responsive webpage with a fixed navbar, collapsible left menu, and dynamic content resizing based on screen width. The page is designed to adapt to various screen sizes for an optimal viewing experience.
+###### This project implements a responsive webpage with a fixed navbar, collapsible left menu, and dynamic content resizing based on screen width. The page is designed to adapt to various screen sizes for an optimal viewing experience.
 ## How to Run 
 
 1.) **Download and Open Task 1 Folder**
